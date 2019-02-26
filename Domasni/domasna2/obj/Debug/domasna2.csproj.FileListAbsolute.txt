@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\bin\Debug\domasna2.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\bin\Debug\domasna2.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\bin\Debug\domasna2.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\obj\Debug\domasna2.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\obj\Debug\domasna2.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\obj\Debug\domasna2.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\domasna2\obj\Debug\domasna2.pdb
