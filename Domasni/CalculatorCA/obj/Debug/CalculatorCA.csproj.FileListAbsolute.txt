@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\bin\Debug\CalculatorCA.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\bin\Debug\CalculatorCA.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\bin\Debug\CalculatorCA.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\obj\Debug\CalculatorCA.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\obj\Debug\CalculatorCA.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\obj\Debug\CalculatorCA.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\CalculatorCA\obj\Debug\CalculatorCA.csprojAssemblyReference.cache

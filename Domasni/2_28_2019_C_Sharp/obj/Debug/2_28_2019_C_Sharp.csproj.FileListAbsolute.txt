@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\obj\Debug\2_28_2019_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\bin\Debug\2_28_2019_C_Sharp.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\bin\Debug\2_28_2019_C_Sharp.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\bin\Debug\2_28_2019_C_Sharp.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\obj\Debug\2_28_2019_C_Sharp.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\obj\Debug\2_28_2019_C_Sharp.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\2_28_2019_C_Sharp\obj\Debug\2_28_2019_C_Sharp.csprojAssemblyReference.cache

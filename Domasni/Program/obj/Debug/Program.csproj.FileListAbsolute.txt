@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\bin\Debug\Program.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\bin\Debug\Program.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\bin\Debug\Program.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\obj\Debug\Program.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Program\obj\Debug\Program.pdb

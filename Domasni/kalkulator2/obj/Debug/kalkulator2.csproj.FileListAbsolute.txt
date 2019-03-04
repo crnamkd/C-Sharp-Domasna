@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\bin\Debug\kalkulator2.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\bin\Debug\kalkulator2.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\bin\Debug\kalkulator2.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\obj\Debug\kalkulator2.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\obj\Debug\kalkulator2.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\obj\Debug\kalkulator2.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\kalkulator2\obj\Debug\kalkulator2.pdb
