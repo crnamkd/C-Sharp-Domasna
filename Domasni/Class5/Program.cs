@@ -102,7 +102,7 @@ namespace Class5
             //var arrayInt = arrayTest.Split(',');
 
             string testString = "Tomas uci da programira";
-            var result = testString.IndexOf("mi");
+            var result = testString.IndexOf("m");
 
 
 
