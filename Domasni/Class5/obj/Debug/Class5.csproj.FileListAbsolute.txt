@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\obj\Debug\Class5.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\obj\Debug\Class5.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\bin\Debug\Class5.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\bin\Debug\Class5.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\bin\Debug\Class5.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\obj\Debug\Class5.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Class5\obj\Debug\Class5.pdb
