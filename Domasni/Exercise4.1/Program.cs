@@ -10,15 +10,34 @@ namespace Exercise4._1
     {
         static void Main(string[] args)
         {
-            var arrUsers = new Users[]
-            {
-            new Users("tomas","samsung",2605),
-            new Users("stefan","pasle",15),
-            new Users("dimitar","jovanov",32)
-            };
+            
             Console.WriteLine("Za login stisnete 1 ili za register 2");
             var input = Console.ReadLine();
-            bool successfull = false;
+            bool op = false;
+            while (!op)
+
+            if (input == "1")
+            {
+                Users.Login();
+                    if (!op)
+                    {
+                        Console.WriteLine("Your username or password is incorect, try again !!!");
+                    }
+                }
+            else if (input == "2")
+            {
+                Users.Register();
+                    if (!op)
+                    {
+                        Console.WriteLine("Your username or password is incorect, try again !!!");
+                    }
+                    continue;
+            }
+            else
+            {
+                Console.WriteLine("Try Again");
+                    break;
+            }
         }
     }
 }

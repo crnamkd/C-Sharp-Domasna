@@ -64,7 +64,6 @@ namespace Exercise4._1.Classes
             new Users("stefan","pasle",15),
             new Users("dimitar","jovanov",32)
             };
-            bool successfull = false;
 
             Console.WriteLine("Enter your username:");
             var username = Console.ReadLine();
@@ -74,7 +73,6 @@ namespace Exercise4._1.Classes
             int id = int.Parse(Console.ReadLine());
             Array.Resize(ref arrUsers, arrUsers.Length + 1);
             arrUsers[arrUsers.Length - 1] = new Users(username.Trim(), password.Trim(), id);
-            successfull = true;
         }
     }
 }

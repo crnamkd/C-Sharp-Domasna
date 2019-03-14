@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Povtoruvanje", "Povtoruvanj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "Exercise4\Exercise4.csproj", "{BF5A4E36-081C-47EA-8219-31784F10AF17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4.1", "Exercise4.1\Exercise4.1.csproj", "{71882E0B-E95E-46EF-BECD-F3F22F0AB042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimkoPlata", "DimkoPlata\DimkoPlata.csproj", "{B8D5D61E-4988-4818-8351-47643664EF03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{BF5A4E36-081C-47EA-8219-31784F10AF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5A4E36-081C-47EA-8219-31784F10AF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5A4E36-081C-47EA-8219-31784F10AF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71882E0B-E95E-46EF-BECD-F3F22F0AB042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71882E0B-E95E-46EF-BECD-F3F22F0AB042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71882E0B-E95E-46EF-BECD-F3F22F0AB042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71882E0B-E95E-46EF-BECD-F3F22F0AB042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D5D61E-4988-4818-8351-47643664EF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D5D61E-4988-4818-8351-47643664EF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D5D61E-4988-4818-8351-47643664EF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D5D61E-4988-4818-8351-47643664EF03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

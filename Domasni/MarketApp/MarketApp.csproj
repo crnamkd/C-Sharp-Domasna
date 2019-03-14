@@ -46,6 +46,7 @@
     <Compile Include="Classes\Cart.cs" />
     <Compile Include="Classes\Person.cs" />
     <Compile Include="Classes\Product.cs" />
+    <Compile Include="Classes\Vraboteni.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
