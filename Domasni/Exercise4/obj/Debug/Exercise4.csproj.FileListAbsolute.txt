@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Exercise4\obj\Debug\Exercise4.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\bin\Debug\Povtoruvanje.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\bin\Debug\Povtoruvanje.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\bin\Debug\Povtoruvanje.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\obj\Debug\Povtoruvanje.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\obj\Debug\Povtoruvanje.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\obj\Debug\Povtoruvanje.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Povtoruvanje\obj\Debug\Povtoruvanje.pdb
