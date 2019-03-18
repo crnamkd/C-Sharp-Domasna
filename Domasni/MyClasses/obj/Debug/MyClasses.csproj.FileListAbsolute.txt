@@ -1,0 +1,2 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\MyClasses\obj\Debug\MyClasses.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\MyClasses\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache

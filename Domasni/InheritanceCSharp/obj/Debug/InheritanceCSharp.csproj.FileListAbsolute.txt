@@ -1,0 +1,7 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\bin\Debug\InheritanceCSharp.exe.config
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\bin\Debug\InheritanceCSharp.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\bin\Debug\InheritanceCSharp.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\obj\Debug\InheritanceCSharp.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\obj\Debug\InheritanceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\obj\Debug\InheritanceCSharp.exe
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\InheritanceCSharp\obj\Debug\InheritanceCSharp.pdb

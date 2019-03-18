@@ -1,0 +1,6 @@
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Generic_Collections\obj\Debug\Generic_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Generic_Collections\bin\Debug\Generic_Collections.dll
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Generic_Collections\bin\Debug\Generic_Collections.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Generic_Collections\obj\Debug\Generic_Collections.dll
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Generic_Collections\obj\Debug\Generic_Collections.pdb
+C:\Users\Tomas\Documents\GitHub\C-Sharp-Domasna\Domasni\Generic_Collections\obj\Debug\Generic_Collections.csprojAssemblyReference.cache

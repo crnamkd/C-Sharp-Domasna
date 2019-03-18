@@ -9,6 +9,12 @@ namespace Exercise4._1.Classes
 {
     class Users
     {
+        Users[] arrUsers = new Users[]
+           {
+            new Users("tomas","samsung",2605),
+            new Users("stefan","pasle",15),
+            new Users("dimitar","jovanov",32)
+           };
 
         public string username;
         public string password;
@@ -56,14 +62,9 @@ namespace Exercise4._1.Classes
             }
         }
         // REGISTER USER
-        public static void Register()
+        public void Register()
         {
-            var arrUsers = new Users[]
-            {
-            new Users("tomas","samsung",2605),
-            new Users("stefan","pasle",15),
-            new Users("dimitar","jovanov",32)
-            };
+           
 
             Console.WriteLine("Enter your username:");
             var username = Console.ReadLine();

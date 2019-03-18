@@ -8,21 +8,10 @@ namespace DimkoPlata
 {
     public class Program
     {
-        public string imePrezime;
-        public int plataFiks;
-        public double totalSum = double.Parse(Console.ReadLine());
+        Vraboteni vraboteni = new Vraboteni("Toni",);
 
-        public double plataSum;
-        plataSum = totalSum / 3.04;
-        public double koeficient = plataSum / 18;
-        public double Toni = 1.85;
-        public double Igor = 2.2;
         
         
-        public double PlataToni()
-        {
-            return koeficient * Toni;
-        }
         static void Main(string[] args)
         {
             Console.WriteLine("Vnesi Total Suma: ");

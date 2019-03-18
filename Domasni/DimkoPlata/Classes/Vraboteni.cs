@@ -8,30 +8,36 @@ namespace MarketApp.Classes
 {
     public class Vraboteni
     {
-        public string imePrezime;
-        public int plataFiks;
-        public double totalSum = double.Parse(Console.ReadLine());
-        public int a;
-        public int b;
-        double plataSum = totalSum / 3.04;
-        double koeficient = plataSum / 18;
+        public string Name { get; set; }
+        public double PlataSum { get; set; }
+        private double Koeficient { get; set; }
+        public string[] Message { get; set; }
+        public double TotalSum { get; set; }
         public double Toni = 1.85;
         public double Igor = 2.2;
 
-        public Vraboteni(string ime, int plata)
+        public Vraboteni(string name, double plataSum, double koeficient, double totalSum)
         {
-            imePrezime = ime;
-            plataFiks = plata;
+            Name = name;
+            PlataSum = plataSum;
+
+            plataSum = totalSum / 3.04;
+
+            TotalSum = totalSum;
+
+            Koeficient = koeficient;
+            koeficient = plataSum / 18;
         }
 
 
-        public double MestenjePlata()
+       public void MSG()
         {
-
+            Console.WriteLine("Delenje Plata : ");
         }
+
         public double PlataToni()
         {
-            return koeficient * Toni;
+            return Koeficient * Toni;
         }
     }
 }
